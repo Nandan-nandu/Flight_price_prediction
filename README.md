@@ -1,2 +1,2 @@
 # Flight_price_prediction
-A project on prediction of flight ticket price.
+A project on prediction of flight ticket price using past data.
